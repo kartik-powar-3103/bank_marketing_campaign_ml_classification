@@ -27,16 +27,6 @@ Assignment 2/
 ├── model_comparison.csv   # Evaluation metrics for all models (from train.py)
 ├── requirements.txt       # Python dependencies
 ├── README.md              # Project documentation
-├── data/                  # Datasets and external data
-│   ├── bank-direct-marketing-campaigns.csv
-│   ├── bank_marketing/    # UCI-style bank marketing data (bank-full.csv, etc.)
-│   ├── adult/             # Adult census dataset
-│   ├── mushroom/          # Mushroom dataset (primary_data, secondary_data)
-│   ├── eeg_data.csv
-│   ├── data.csv
-│   ├── train.csv
-│   ├── test.csv
-│   └── sample_submission.csv
 └── model/                 # Saved models (created by train.py)
     ├── logistic_regression.pkl
     ├── decision_tree.pkl
