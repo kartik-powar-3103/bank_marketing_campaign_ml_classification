@@ -42,7 +42,6 @@ Assignment 2/
 | **`app.py`** | Streamlit application to compare model metrics, view confusion matrices, and run predictions on uploaded CSV data. |
 | **`train.py`** | Script to train all six classifiers on `bank.csv`, evaluate them, save metrics to `model_comparison.csv`, and persist models in `model/`. |
 | **`notebook.ipynb`** | Interactive notebook for data cleaning, exploratory data analysis (EDA), and model exploration. |
-| **`data/`** | Folder containing the main and auxiliary datasets (bank marketing, adult, mushroom, etc.). |
 | **`model/`** | Directory where serialized models (`.pkl`) and label encoders are stored after running `train.py`. |
 | **`model_comparison.csv`** | CSV of evaluation metrics (Accuracy, AUC, Precision, Recall, F1, MCC, TP/FP/FN/TN) for each model. |
 
