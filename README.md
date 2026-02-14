@@ -108,6 +108,8 @@ The app opens in your browser at **http://localhost:8501** (or the URL shown in 
 
 **Note:** Train the models first with `python train.py` so that `model/` and `model_comparison.csv` exist; otherwise the app will show warnings about missing models or metrics.
 
+⚠️ **App may take a few seconds to wake up due to free hosting.**
+
 ---
 
 ## How to Run (Notebook)
